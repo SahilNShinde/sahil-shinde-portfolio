@@ -31,6 +31,26 @@ const projects = [
       'Streamlined patient registration and reduced manual data-entry errors.',
     ],
   },
+  {
+    title: 'Project Title',
+    period: 'Coming soon',
+    tools: ['Tool', 'Tool', 'Tool'],
+    points: [
+      'Add a one-line summary describing what you built and the problem it solved.',
+      'Highlight the key techniques, libraries, or models you applied.',
+      'State the measurable result or outcome you achieved.',
+    ],
+  },
+  {
+    title: 'Project Title',
+    period: 'Coming soon',
+    tools: ['Tool', 'Tool', 'Tool'],
+    points: [
+      'Add a one-line summary describing what you built and the problem it solved.',
+      'Highlight the key techniques, libraries, or models you applied.',
+      'State the measurable result or outcome you achieved.',
+    ],
+  },
 ]
 
 export function ProjectsSection() {

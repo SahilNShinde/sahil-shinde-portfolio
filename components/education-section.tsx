@@ -5,7 +5,7 @@ const education = [
     school: 'Universal College of Engineering — Mumbai University',
     degree: 'B.E. in Computer Engineering',
     period: '2023 – Present',
-    stat: 'Sem 4 SGPI 7.13',
+    stat: 'All Semesters Cleared',
     points: [
       'Currently in 4th year — all semesters cleared with 0 active backlogs.',
       'Relevant coursework: DBMS, Data Structures & Algorithms, OOPs, Applied Mathematics.',
