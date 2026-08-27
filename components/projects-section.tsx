@@ -22,7 +22,7 @@ const projects = [
     ],
   },
   {
-    title: 'Hospital Management System',
+    title: 'Hospital Operations and Resource Management System',
     period: 'Jan 2025 – Apr 2025',
     tools: ['Java', 'Swing & AWT', 'SQL'],
     points: [
@@ -66,7 +66,7 @@ export function ProjectsSection() {
           {projects.map((project, i) => (
             <article
               key={project.title}
-              className="group grid gap-6 border-t border-border py-10 md:grid-cols-[1fr_1.6fr] last:border-b"
+              className={`group grid gap-6 border-t border-border py-10 md:grid-cols-[1fr_1.6fr] last:border-b ${i === 4 ? 'rounded-[20px]' : ''}`}
             >
               <div>
                 <span className="font-mono text-xs text-muted-foreground">
