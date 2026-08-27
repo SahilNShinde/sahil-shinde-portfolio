@@ -12,12 +12,12 @@ const certs = [
     ],
   },
   {
-    title: 'GenAI for Data Analytics',
-    issuer: 'WsCube Tech',
-    date: 'Jul 2025',
+    title: 'Master in Data Science, Analytics & AI',
+    issuer: 'Itvedant · NSDC (Govt. of India) Certified',
+    date: 'Industry-aligned',
     points: [
-      'Completed a masterclass on applying Generative AI tools to enhance analysis workflows.',
-      'Gained practical insight into the intersection of AI and modern analytics techniques.',
+      'Completed an intensive industry-aligned curriculum across Data Analytics, Data Science, and Machine Learning.',
+      'Covered end-to-end tracks from data preparation to modeling and applied AI.',
     ],
   },
 ]

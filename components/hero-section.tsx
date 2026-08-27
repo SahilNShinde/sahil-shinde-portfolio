@@ -29,9 +29,9 @@ export function HeroSection() {
           Sahil Nandkumar Shinde
         </h1>
         <p className="mt-8 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
-          Analytical and result-driven Computer Engineering student with a strong foundation in
-          Data Structures and Data Analytics. Proficient in SQL, Power BI, and Excel — turning raw
-          data into clear, decision-ready business insights.
+          Analytical and results-driven Computer Engineering student with a strong foundation in
+          Data Science, Machine Learning, and Data Analytics. Proficient in Python, SQL, Power BI,
+          Excel, and ML libraries — turning raw data into clear, decision-ready insights.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-x-8 gap-y-3">

@@ -7,8 +7,8 @@ const education = [
     period: '2023 – Present',
     stat: 'Sem 4 SGPI 7.13',
     points: [
-      'Currently in 3rd year.',
-      'Relevant coursework: DBMS, Data Structures, Applied Mathematics.',
+      'Currently in 4th year — all semesters cleared with 0 active backlogs.',
+      'Relevant coursework: DBMS, Data Structures & Algorithms, OOPs, Applied Mathematics.',
     ],
   },
   {

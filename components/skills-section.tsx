@@ -1,11 +1,21 @@
 import { SectionHeading } from '@/components/section-heading'
-import { BarChart3, Database, Code2, Layers } from 'lucide-react'
+import { BarChart3, Database, Code2, Layers, LineChart, BrainCircuit } from 'lucide-react'
 
 const groups = [
   {
     icon: BarChart3,
     title: 'Data Analysis & Visualization',
     items: ['Power BI', 'DAX', 'Interactive Dashboards', 'Slicers', 'Excel (Advanced)'],
+  },
+  {
+    icon: LineChart,
+    title: 'Data Science',
+    items: ['NumPy', 'Pandas', 'Matplotlib', 'Seaborn', 'XGBoost', 'Random Forest'],
+  },
+  {
+    icon: BrainCircuit,
+    title: 'Machine Learning',
+    items: ['Computer Vision', 'Neural Networks', 'ANN', 'CNN'],
   },
   {
     icon: Database,
@@ -31,7 +41,7 @@ export function SkillsSection() {
         <SectionHeading
           index="01 / Skills"
           title="Technical toolkit"
-          description="A focused stack for the full analytics workflow — from querying and cleaning raw data to modeling and building dashboards that communicate insight."
+          description="A stack spanning the full data workflow — from querying and cleaning raw data to machine learning models and dashboards that communicate insight."
         />
         <div className="grid gap-px overflow-hidden rounded-sm border border-border bg-border sm:grid-cols-2">
           {groups.map((group) => {
