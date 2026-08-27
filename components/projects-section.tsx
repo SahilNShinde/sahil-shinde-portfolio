@@ -11,26 +11,7 @@ const projects = [
       'Built dynamic slicers for Fuel Type and Year to compare Hybrid, Electric, and Petrol trends instantly.',
     ],
   },
-  {
-    title: 'Library Management System',
-    period: 'Sep 2025 – Oct 2025',
-    tools: ['SQL', 'Schema Design', 'Joins'],
-    points: [
-      'Architected a normalized relational schema with 5+ connected tables (Books, Members, Loans, Fines).',
-      'Wrote complex queries using CASE statements to automate availability and LEFT JOINs for borrowing history.',
-      'Ensured 100% data integrity and enabled efficient tracking of overdue books and member fines.',
-    ],
-  },
-  {
-    title: 'Hospital Operations and Resource Management System',
-    period: 'Jan 2025 – Apr 2025',
-    tools: ['Java', 'Swing & AWT', 'SQL'],
-    points: [
-      'Developed a desktop management application in Java (Swing & AWT) with a user-friendly frontend.',
-      'Integrated a SQL backend for real-time CRUD operations on patient records.',
-      'Streamlined patient registration and reduced manual data-entry errors.',
-    ],
-  },
+
   {
     title: 'Project Title',
     period: 'Coming soon',
