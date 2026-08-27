@@ -26,7 +26,19 @@ export function HeroSection() {
           Aspiring Data Scientist & ML Engineer
         </p>
         <h1 className="text-balance text-5xl font-semibold leading-[1.05] tracking-tight md:text-7xl">
-          Sahil Nandkumar Shinde
+          <a
+            href="https://www.linkedin.com/in/sahil-shinde-48b06237b"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group inline-flex flex-wrap items-center gap-x-4 gap-y-2 transition-colors hover:text-primary"
+          >
+            Sahil Nandkumar Shinde
+            <img
+              src="/images/linkedin-icon.webp"
+              alt="View Sahil's LinkedIn profile"
+              className="h-8 w-8 rounded-md transition-transform group-hover:scale-110 md:h-11 md:w-11"
+            />
+          </a>
         </h1>
         <p className="mt-8 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
           Analytical and results-driven Computer Engineering student with a strong foundation in
