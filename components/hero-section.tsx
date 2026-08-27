@@ -2,7 +2,7 @@ import { Mail, Phone, Globe, MapPin, ArrowUpRight } from 'lucide-react'
 
 const metrics = [
   { value: '7.13', label: 'Sem 4 SGPI' },
-  { value: '3rd', label: 'Year B.E.' },
+  { value: '4th', label: 'Year B.E.' },
   { value: '4+', label: 'Data Projects' },
   { value: '2', label: 'Certifications' },
 ]
