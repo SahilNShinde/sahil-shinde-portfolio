@@ -29,7 +29,7 @@ export function SiteNav() {
           ))}
         </nav>
         <a
-          href="mailto:sahilshinde1881@gmail.com"
+          href="#footer"
           className="inline-flex items-center rounded-sm bg-primary px-4 py-2 font-mono text-xs uppercase tracking-widest text-primary-foreground transition-opacity hover:opacity-90"
         >
           Contact

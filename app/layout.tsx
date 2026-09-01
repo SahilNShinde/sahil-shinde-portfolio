@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Sahil Shinde — Data Analyst',
+  title: 'Sahil Shinde — Data Scientist & Data Analyst',
   description:
-    'Portfolio of Sahil Nandkumar Shinde, a Computer Engineering student and aspiring Data Analyst skilled in Power BI, SQL, Excel, and Python.',
+    'Portfolio of Sahil Nandkumar Shinde, a Computer Engineering student skilled in Data Science, Machine Learning, Data Analytics, Power BI, SQL, and Python.',
   generator: 'v0.app',
 }
 
