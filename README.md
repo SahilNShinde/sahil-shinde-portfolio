@@ -99,7 +99,7 @@ To run this project locally on your machine:
    ```
 
 4. **Open in Browser:**
-   Navigate to [https://sahil-shinde-portfolio-sigma.vercel.app/](https://sahil-shinde-portfolio-sigma.vercel.app/) to view the site locally.
+   Navigate to [https://sahil-shinde-portfolio-sigma.vercel.app/](https://sahil-shinde-portfolio-sigma.vercel.app/) to view the site.
 
 ---
 
