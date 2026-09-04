@@ -51,7 +51,7 @@ This repository contains the official portfolio website of **Sahil Nandkumar Shi
 
 ### 4. 🏥 Hospital Operations and Resource Management System *(Feb 2025 – Mar 2025)*
 - **Tools**: Java, Java Swing, JDBC, MySQL
-- **Repository**: [Hospital Operations System](https://github.com/SahilNShinde/Hospital-Operations-and-Resource-Management-System)
+- **Repository**: [Hospital Operations and Resource Management System](https://github.com/SahilNShinde/Hospital-Operations-and-Resource-Management-System)
 - **Description**: Desktop hospital operations system with role-based auth, patient intake management, automated bill calculation, and room availability tracking.
 
 ---
