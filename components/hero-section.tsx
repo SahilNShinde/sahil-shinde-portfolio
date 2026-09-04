@@ -74,7 +74,7 @@ export function HeroSection() {
     <section id="top" className="border-b border-border">
       <div className="mx-auto max-w-5xl px-6 pb-16 pt-20 md:pt-28">
         <p className="mb-6 font-mono text-xs uppercase tracking-[0.25em] text-primary">
-          Aspiring Data Analyst & Data Scientist
+          Aspiring Data Analyst, Data Scientist & ML Engineer
         </p>
         <h1 className="text-balance text-5xl font-semibold leading-[1.05] tracking-tight text-foreground md:text-7xl">
           Sahil Nandkumar Shinde

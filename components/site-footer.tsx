@@ -40,7 +40,7 @@ export function SiteFooter() {
             Let&apos;s work together
           </p>
           <h2 className="mt-4 text-3xl font-semibold tracking-tight text-balance">
-            Open to Data Analyst & Data Scientist roles.
+            Open to Data Analyst, Data Scientist & ML Engineer roles.
           </h2>
           <a
             href="mailto:sahilshinde1881@gmail.com"
